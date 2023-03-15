@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Labrada:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+$paragraph-typography:'poppins';
+$title-header:'amarante';
+$subtitle_header:'labrada';
+
+h3 {
+    font-family: $subtitle_header;
+    
+}
+
+h3 .container {
+    font-family:$subtitle_header;
+    color: $color-white;
+}
+
+h2 {
+    font-family: $title-header;
+}
+
+p {
+    font-family: $paragraph-typography;
+}
+
+h1{
+    font-family: $title-header;
+}
