@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/issues</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/pulls</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/projects?query=is%3Aopen</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/security</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/commit/0a85881223368d481a9356efb43e7442b838701e</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/commit/0777d173405d768bddd655568042c8e17075168c</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/main/.gitignore</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/main/index.html</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/main/package-lock.json</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/main/package.json</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/releases</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/compare</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4431333520</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4227888536</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/security/policy</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/security/advisories</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/commit/f01e32883ebce6c917f989879e01b4975a29b06a</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/0a85881223368d481a9356efb43e7442b838701e/.gitignore</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/find/main</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/0a85881223368d481a9356efb43e7442b838701e/index.html</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/0a85881223368d481a9356efb43e7442b838701e/package-lock.json</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/blob/0a85881223368d481a9356efb43e7442b838701e/package.json</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels?sort=name-asc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels?sort=name-desc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels?sort=count-desc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels?sort=count-asc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/bug</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/documentation</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/duplicate</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/enhancement</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/good%20first%20issue</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/help%20wanted</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/invalid</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/question</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/labels/wontfix</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4431333520/jobs/7774171084</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4431333520/jobs/7774181469</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4431333520/jobs/7774181643</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4431333520/usage</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4227888536/jobs/7342771965</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4227888536/jobs/7342776357</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4227888536/jobs/7342776946</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/actions/runs/4227888536/usage</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/commit/179c298d7c782b298cc72e512f8028ee8bd31e07</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/find/0a85881223368d481a9356efb43e7442b838701e</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/LySlowlife7/proyecto-rivendel/commit/f1a9fcea36b22d5d02e67d015c5f9bdf3a427400</loc>
+  <lastmod>2023-03-15T22:05:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
