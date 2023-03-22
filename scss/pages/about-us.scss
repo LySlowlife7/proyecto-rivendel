@@ -1,44 +1,75 @@
+$max-width: 1200px;
+$margin-auto: 0 auto;
+$padding: 20px;
+$text-align-center: center;
+$margin-bottom: 40px;
+$font-size: 36px;
+$font-weight: bold;
+$color: #333;
+$flex-wrap: wrap;
+$justify-content-between: space-between;
+$img-width: calc(25% - 10px);
+$img-width-mobile: calc(50% - 10px);
+$img-margin-bottom: 10px;
+$img-border-radius: 15px;
+$text-basis: 100%;
+$text-margin-bottom: 20px;
+$text-font-size: 18px;
+$text-line-height: 1.5;
 
 
-
-.img-area-about {
-  display: flex;
-  width: $img-area-about-width;
-  margin: $img-area-about-margin;
-  margin-left: $img-area-about-margin-left;
-
-  img {
-    width: $img-area-about-img-width;
-    margin: $img-area-about-img-margin;
-    border-radius: $img-area-about-img-border-radius;
+.contentAbout {
+    max-width: $max-width;
+    margin: $margin-auto;
+    padding: $padding;
   }
-}
-
-.about-text {
-  padding-top: $about-text-padding-top;
-}
-
-.content {
-  p {
-    font-size: $content-p-font-size;
-    color: $content-p-color;
-    line-height: $content-p-line-height;
-    font-family: $paragraph-typography;
-    margin-bottom: $content-p-margin-bottom;
-    align-items: $content-p-align-items;
-    padding: $content-p-padding;
+  
+  header {
+    text-align: $text-align-center;
+    margin-bottom: $margin-bottom;
   }
-
+  
   h1 {
-    padding-left: $content-h1-padding-left;
-    font-family: $title-header;
-    color: $content-h1-color;
+    font-size: $font-size;
+    font-weight: $font-weight;
+    color: $color-white;
+    margin-top: 40px;
+    
   }
-}
-
-
-
-
-
-
-
+  
+  .aboutUs {
+    display: flex;
+    flex-wrap: $flex-wrap;
+    justify-content: $justify-content-between;
+  }
+  
+  .img-area-about {
+    display: flex;
+    flex-wrap: $flex-wrap;
+    justify-content: $justify-content-between;
+    margin-bottom: $img-margin-bottom;
+  }
+  
+  .img-area-about img {
+    width: $img-width;
+    margin-bottom: $img-margin-bottom;
+    border-radius: $img-border-radius;
+  }
+  
+  .text-area-about {
+    flex-basis: $text-basis;
+  }
+  
+  .text-area-about p {
+    margin-bottom: $text-margin-bottom;
+    font-size: $text-font-size;
+    line-height: $text-line-height;
+    color:$color-white;
+  }
+  
+  @media (max-width: 767px) {
+    .img-area-about img {
+      width: $img-width-mobile;
+    }
+  }
+  
